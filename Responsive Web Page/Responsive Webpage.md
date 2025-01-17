@@ -189,6 +189,14 @@ http://localhost:3000
 
 ---
 
+## Terminal Result
+
+Here is a preview of the terminal output when the server is successfully started:
+
+![Terminal Result](./assets/terminal-result.png)
+
+---
+
 ## Future Enhancements
 
 - Add more interactivity to the side panels.
