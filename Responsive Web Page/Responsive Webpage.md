@@ -184,7 +184,10 @@ http://localhost:3000
 ## Features
 
 - **Result**: Main Containt Page.
+![Alt Text](https://github.com/AniketP117/Frontend-Work-With-js/blob/3964c47d49ecd7dae57c75239bf0d73de5b313d2/Responsive%20Web%20Page/Result%20of%20the%20execution.png)
+
 - **Result-Oriented Design**: Features a dropdown menu and collapsible left menu (optional).
+
 - **Responsive Design**: The layout adjusts to different screen sizes.
 - **Modular Architecture**: Easily extendable design.
 
@@ -194,7 +197,7 @@ http://localhost:3000
 
 Here is a preview of the terminal output when the server is successfully started:
 
-![Terminal Result](./assets/terminal-result.png)
+![Terminal Result](https://github.com/AniketP117/Frontend-Work-With-js/blob/83ade66c41e9743815dcbf3695bdca9a47526bfa/Responsive%20Web%20Page/Terminal%20after%20code%20execution.png)
 
 ---
 
