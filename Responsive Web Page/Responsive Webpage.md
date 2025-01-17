@@ -183,6 +183,7 @@ http://localhost:3000
 
 ## Features
 
+-**Result-Main Contain Page.
 - **Result-Oriented Design**: Features a dropdown menu and collapsible left menu (optional).
 - **Responsive Design**: The layout adjusts to different screen sizes.
 - **Modular Architecture**: Easily extendable design.
