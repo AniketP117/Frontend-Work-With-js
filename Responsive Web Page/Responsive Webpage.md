@@ -5,6 +5,7 @@ This project demonstrates the creation of a responsive webpage using HTML, CSS, 
 ---
 
 ## File Structure
+![Alt Text](https://github.com/AniketP117/Frontend-Work-With-js/blob/8ef2f78b6704a3cea6ac39dd2bd18bd97fd0cae7/Responsive%20Web%20Page/codes%20all%20in%20one%20place.png)
 
 ### HTML
 The `index.html` file provides the structure of the webpage.
@@ -186,11 +187,10 @@ http://localhost:3000
 - **Result**: Main Containt Page.
 ![Alt Text](https://github.com/AniketP117/Frontend-Work-With-js/blob/3964c47d49ecd7dae57c75239bf0d73de5b313d2/Responsive%20Web%20Page/Result%20of%20the%20execution.png)
 
-- **Result-Oriented Design**: Features a dropdown menu and collapsible left menu (optional).
-
+- **Result-Oriented Design**: Features a dropdown menu and collapsible left menu.
+![Alt Text](https://github.com/AniketP117/Frontend-Work-With-js/blob/125181d7765ae6aeadfad4fb9856f53950f5ed44/Responsive%20Web%20Page/collapsable%20left%20panel.png)
 - **Responsive Design**: The layout adjusts to different screen sizes.
-- **Modular Architecture**: Easily extendable design.
-
+![Alt Text](https://github.com/AniketP117/Frontend-Work-With-js/blob/8ef2f78b6704a3cea6ac39dd2bd18bd97fd0cae7/Responsive%20Web%20Page/When%20Webpage%20is%20at%20600px.png)
 ---
 
 ## Terminal Result
